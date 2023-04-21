@@ -1,4 +1,4 @@
-package com.baizhi.entity;
+package com.mizuki.entity;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

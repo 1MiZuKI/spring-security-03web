@@ -1,7 +1,7 @@
-package com.baizhi.dao;
+package com.mizuki.dao;
 
-import com.baizhi.entity.Role;
-import com.baizhi.entity.User;
+import com.mizuki.entity.Role;
+import com.mizuki.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

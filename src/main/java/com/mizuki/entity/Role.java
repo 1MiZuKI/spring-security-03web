@@ -1,4 +1,4 @@
-package com.baizhi.entity;
+package com.mizuki.entity;
 
 //角色类
 public class Role {
